@@ -5,3 +5,5 @@ Do instalacji selenium wpisz w cmd komandę:
 pip install selenium
 
 Oraz dla uruchomienia programu trzeba zainstalować Firefox
+
+Kod był napisał Serhii Skyba
